@@ -34,7 +34,7 @@ body {
   padding: 0;
   white-space: nowrap;
   -webkit-clip-path: inset(100%);
-  clip-path: inset(100%);
+          clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
@@ -123,7 +123,7 @@ body {
   .logo__list {
     display: none;
   }
-  .logo__button {
+  .logo__button1 {
     display: none;
   }
   .logo__img {
@@ -170,7 +170,7 @@ body {
   left: -20px;
   background-repeat: no-repeat;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .hero__title {
@@ -245,7 +245,7 @@ body {
     background-repeat: no-repeat;
     background-position: calc(50% - 650px) calc(20% + 213px), 50% right top;
     -o-object-fit: cover;
-    object-fit: cover;
+       object-fit: cover;
     position: absolute;
   }
   .hero__title {
@@ -303,7 +303,7 @@ body {
     top: 341px;
     background-repeat: no-repeat;
     -o-object-fit: cover;
-    object-fit: cover;
+       object-fit: cover;
   }
   .hero__title {
     padding-bottom: 200px;
@@ -319,7 +319,7 @@ body {
     top: 341px;
     background-repeat: no-repeat;
     -o-object-fit: cover;
-    object-fit: cover;
+       object-fit: cover;
   }
   .hero__title > p {
     margin-left: 0;
